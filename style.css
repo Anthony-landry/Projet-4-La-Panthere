@@ -1035,16 +1035,17 @@ h4 {
 		width: 180px;
 		height: 320px;
 	}
-}
-
-@media (max-width: 400px) {
 	.bloc {
 		padding-left: 0;
 		padding-right: 0;
 	}
+
+	.adress-contact {
+		text-align: center;
+	}
 }
 
-@media (max-width: 767px) {
+@media (max-width: 400px) {
 	.bloc-mob-center-text {
 		text-align: center;
 	}
