@@ -1,4 +1,4 @@
-# Projet 4 La Panthère Agence de Wed Design
+# Projet 4 La Panthère Agence de Web Design
 
 Scénario : 
 
